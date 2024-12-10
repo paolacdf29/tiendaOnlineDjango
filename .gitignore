@@ -1,0 +1,26 @@
+#Virtual env
+venv/
+env
+# env file(s)
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+#PyCharm IDE
+.idea/
+
+#Pyenv shim
+.python-version
+
+.vscode/
+
+# translations files 
+*.mo
+
+# Document lock files
+.~lock.*#
+
+profiling/
